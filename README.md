@@ -1,7 +1,6 @@
-### Hi there 👋
+![MELT's Github Header Banner](images/banner-1.png)
 
-[![MELT's Github Banner](images/banner-1.png)]
-
+### Hi, I'm Morgan! 👽
 <!--
 **MeltedGreenVelvet/MeltedGreenVelvet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +15,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###### I am a creative. 
+
+I got my bachelor's degree in Computer Science, had an identity crisis because IT helpdesks, database administration, and backend software engineering will never be my shtick, and found myself in a "Baby's First Graphic Design and Digital Marketing" position. Which is great. I learned Adobe CC, photography, and design! I learned how to paint (this is a biggie for me)! I learned what a good website can truly do for a business. 
+
+But, it's been years. I don't remember a whole lot about how to code. So, I'm rectifying that now, and I'm focusing on frontend--> A path I didn't get much experience with back in college, but a path I've learned that I very much enjoy.
+
+🌱 I’m currently learning: React, Figma, Sass, GSAP
+📫 How to reach me: morganeltrask@gmail.com
+😄 Pronouns: she/her
+⚡ Fun fact: I play way too much Stardew Valley
+
+![MELT's Github Footer Banner](images/banner-2.png)
