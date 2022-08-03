@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![MELT's Github Banner](images/banner-1.png)]
+
 <!--
 **MeltedGreenVelvet/MeltedGreenVelvet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
