@@ -16,12 +16,9 @@ Here are some ideas to get you started:
 -⚡ Fun fact: I play way too much Stardew Valley  
 -->
 
---------------------------------------
 
-Hi, I'm Morgan! (she/her/👽)
+HI, I'M MORGAN! 👽 (SHE/HER) 
 =======================
-
---------------------------------------
 
 
 I am a creative. ✒️ I like to make things.
@@ -32,14 +29,13 @@ But, it's been years. I don't remember a whole lot about how to code. So, I'm re
 
 🌱 I’m currently learning: React, Figma, Sass, GSAP  
 
---------------------------------------
+
 
 WANNA CONNECT?
 ---------------
 
---------------------------------------
-
 
 📫 How to reach me: morganeltrask@gmail.com  
+
 
 ![MELT's Github Footer Banner](images/banner-2.png)
