@@ -32,7 +32,7 @@ HI, I'M MORGAN! 👽 (SHE/HER)
 
 
 <p align = "center">
-![meltedgreenvelvet's Top Languages]<img src="./images/most-used-languages.svg">
+<img src="./images/most-used-languages.svg">
 </p>
 
 
