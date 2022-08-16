@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -⚡ Fun fact: I play way too much Stardew Valley  
 -->
 
-<h2 align=center>
+
 HI, I'M MORGAN! 👽 (SHE/HER) 
 ----------------------
-</h2>
+
 
 
 ###### I am a creative. ✒️ I like to make things.
@@ -32,14 +32,12 @@ HI, I'M MORGAN! 👽 (SHE/HER)
 
 
 <p align = "center">
-![meltedgreenvelvet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meltedgreenvelvet&theme=jolly&show_icons=true&hide_border=true&layout=compact)
+![meltedgreenvelvet's Top Languages](images/most-used-languages.svg)
 </p>
 
 
-<h2 align=center>
 MY ORGANIZATIONS
 ---------------
-</h2>
 
 
 ###### Having a "professional" Github has became a pretty loaded topic, huh?
@@ -50,10 +48,10 @@ MY ORGANIZATIONS
 ###### In an effort to stay sane, I have categorized my repos into organizations, treating them as hack-y directories. My own personal work, as of right now, will not be redirected to organizations and will be under the ownership of my personal account.
 
 
-<h2 align=center>
+
 WANNA CONNECT?
 ---------------
-</h2>
+
 
 
 📫 How to reach me: morganeltrask@gmail.com  
